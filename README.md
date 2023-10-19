@@ -1,1 +1,2 @@
 # gyakorlas
+#github böngészőből írtam
